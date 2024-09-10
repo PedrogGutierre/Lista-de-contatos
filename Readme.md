@@ -1,0 +1,1 @@
+olá, este é um projeto simples de lista de contatos, apenas praticando :D
